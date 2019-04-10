@@ -1763,55 +1763,6 @@ body {
   padding-bottom: 30px;
   background-color: #2e2e2e;
 }
-.cid-rmO2fXaVkY {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #ffffff;
-}
-.cid-rmO2fXaVkY .mbr-text,
-.cid-rmO2fXaVkY blockquote {
-  color: #767676;
-}
-.cid-rmO2fXaVkY .mbr-text {
-  text-align: center;
-}
-.cid-rmO264tHLf {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #ffffff;
-}
-.cid-rmO264tHLf .line {
-  background-color: #149dcc;
-  color: #149dcc;
-  align: center;
-  height: 2px;
-  margin: 0 auto;
-}
-.cid-rmO264tHLf .section-text {
-  padding: 2rem 0;
-}
-.cid-rmO264tHLf .inner-container {
-  margin: 0 auto;
-}
-@media (max-width: 768px) {
-  .cid-rmO264tHLf .inner-container {
-    width: 100% !important;
-  }
-}
-.cid-rmO26u0khI {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
-}
-.cid-rmO26u0khI .mbr-text,
-.cid-rmO26u0khI blockquote {
-  color: #767676;
-}
-.cid-rmTC5QjH20 {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #2e2e2e;
-}
 .cid-rmO2BUVTy9 {
   padding-top: 30px;
   padding-bottom: 30px;
@@ -2290,6 +2241,55 @@ body {
   color: #767676;
 }
 .cid-rmTCjcv6Gp {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #2e2e2e;
+}
+.cid-rmO2fXaVkY {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-rmO2fXaVkY .mbr-text,
+.cid-rmO2fXaVkY blockquote {
+  color: #767676;
+}
+.cid-rmO2fXaVkY .mbr-text {
+  text-align: center;
+}
+.cid-rmO264tHLf {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-rmO264tHLf .line {
+  background-color: #149dcc;
+  color: #149dcc;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-rmO264tHLf .section-text {
+  padding: 2rem 0;
+}
+.cid-rmO264tHLf .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-rmO264tHLf .inner-container {
+    width: 100% !important;
+  }
+}
+.cid-rmO26u0khI {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rmO26u0khI .mbr-text,
+.cid-rmO26u0khI blockquote {
+  color: #767676;
+}
+.cid-rmTC5QjH20 {
   padding-top: 30px;
   padding-bottom: 30px;
   background-color: #2e2e2e;

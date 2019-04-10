@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-03-27_0656",
-    "currentPage": "Resume.html",
+    "currentPage": "Courses.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -291,28 +291,6 @@
             "padding-top": "(@paddingTop * 15px)",
             "padding-bottom": "(@paddingBottom * 15px)",
             "background-color": "@bgColor",
-            ".mbr-text, blockquote": {
-              "color": "#767676"
-            },
-            ".mbr-text P": {
-              "color": "#232323"
-            }
-          },
-          "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"></div>\n        </div>\n    </div>\n</section>",
-          "_cid": "rn51NF14hR",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {},
-          "_anchor": "content1-28"
-        },
-        {
-          "alias": false,
-          "_styles": {
-            "padding-top": "(@paddingTop * 15px)",
-            "padding-bottom": "(@paddingBottom * 15px)",
-            "background-color": "@bgColor",
             ".mbr-section-subtitle": {
               "color": "#767676"
             }
@@ -340,7 +318,7 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p><b>Justification for including:</b>&nbsp; This is a User Experience design project that evalauted CORAL ERM and provided recommendations for User Experience design changes. This was a highly collaborative project from the course User Experience Design taken in Spring 2018. I served as the client partner and was the key communicator with our client. Together, we frequently video chatted and used Google Documents to create experience maps and interview questions. Ulysses and I completed the card sort of the initial survey. The team collaborated for the final recommendations and the remainder of the report.</p></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p><b>Justification for including:</b>&nbsp; This is a User Experience design project that evalauted CORAL ERM and provided recommendations for User Experience design changes. This was a highly collaborative project from the course User Experience Design taken in Spring 2018. I served as the client partner and was the key communicator with our client. Together, we frequently video chatted and used Google Documents to create experience maps and interview questions. Ulysses and I completed the card sort of the initial survey. The team collaborated for the final recommendations and the remainder of the report.</p><p>The entire paper can be found here:&nbsp;</p></div>\n        </div>\n    </div>\n</section>",
           "_cid": "rlVz1ln9iX",
           "_anchor": "content1-w",
           "_protectedParams": [],
@@ -381,36 +359,13 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p><b>Justification for including:</b> The following paper was written for the core class Values and Communities I took in Spring Quarter 2018 with Professor Ramesh Srinivasan. I am including this paper as it showcases my burgeoning interest in the overlap between economic incentive and technology. I am currently taking Economics of Information which delves deeper into this topic.</p><p><br></p><p>The entire document can be found here:</p></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p><b>Justification for including:</b> The following paper was written for the core class Values and Communities I took in Spring Quarter 2018 with Professor Ramesh Srinivasan. I am including this paper as it showcases my burgeoning interest in the overlap between economic incentive and technology. I am currently taking Economics of Information which delves deeper into this topic.</p><p><br></p><p>The entire paper can be found here:</p></div>\n        </div>\n    </div>\n</section>",
           "_cid": "rlVz2ixS68",
           "_anchor": "content1-y",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
           "_params": {}
-        },
-        {
-          "alias": false,
-          "_styles": {
-            "padding-top": "(@paddingTop * 15px)",
-            "padding-bottom": "(@paddingBottom * 15px)",
-            "background-color": "@bgColor",
-            ".mbr-text, blockquote": {
-              "color": "#767676"
-            },
-            ".mbr-text P": {
-              "text-align": "center",
-              "color": "#232323"
-            }
-          },
-          "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"></div>\n        </div>\n    </div>\n</section>",
-          "_cid": "rn529WIaE9",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {},
-          "_anchor": "content1-29"
         },
         {
           "alias": false,
@@ -1778,7 +1733,7 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p>Course Id\tCourse Title\tProfessor\tTerm\n</p><p>IS 211\tArtifacts and Cultures\tDrucker\tFall 2017\n</p><p>IS 260 \tDescription and Access\tFurner\tFall 2017\n</p><p>IS 271 \tIntroduction to Computer Systems and Programming\tJoshua Gomez\tFall 2017\n</p><p>IS 270 \tSystems and Infrastructures\tPosner\tWinter 2018\n</p><p>IS 272 \tHuman Computer Interaction\tLievrouw\tWinter 2018\n</p><p>IS 438B \tAdvanced Issues in Archival Science – Archival Description and Access Systems\tFurner\tWinter 2018\n</p><p>IS 212\tValues and Communities in Information Professions\tSrinivasan\tSpring 2018\n</p><p>IS 279 \tUser Experience Design\tBoyden\tSpring 2018\n</p><p>IS 289\tSurvey of Data Storage and Retrieval Systems\tJoshua Gomez\tSpring 2018\n</p><p>IS 289 \tDigital Methods for Research and Scholarship\tDrucker\tFall 2018\n</p><p>IS 289\tIntellectual Property\tMikka Conway\tFall 2018\n</p><p>IS 400 \tProfessional Development and Portfolio Design\tSnowden Becker\tFall 2018\n</p><p>DH 201 \tIntroduction to Digital Humanities\tPosner\tWinter 2019\n</p><p>EDUC 222D \tQualitative Inquiry: Special Topics Qualitative Data Analysis\tKim Gomez\tWinter 2019\n</p><p>IS 262A\tData Management and Practice\tJillian Wallis\tWinter 2019\n</p><p>IS 262B \tData Curation and Policy\tJillian Wallis\tSpring 2019\n</p><p>IS 289\tWeb Development\tJoshua Gomez\tSpring 2019\n</p><p>IS 206\tEconomics of Information\tLievrouw\tSpring 2019</p></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p><br></p><p><b>Fall 2017</b></p><p>IS 211\tArtifacts and Cultures\tDrucker\tFall 2017\n</p><p>IS 260 \tDescription and Access\tFurner\tFall 2017\n</p><p>IS 271 \tIntroduction to Computer Systems and Programming\tJoshua Gomez\tFall 2017</p><p><b>Winter 2018</b></p><p>\n</p><p>IS 270 \tSystems and Infrastructures\tPosner\tWinter 2018\n</p><p>IS 272 \tHuman Computer Interaction\tLievrouw\tWinter 2018\n</p><p>IS 438B \tAdvanced Issues in Archival Science – Archival Description and Access Systems\tFurner\tWinter 2018</p><p><b>Spring 2018</b></p><p>\n</p><p>IS 212\tValues and Communities in Information Professions\tSrinivasan\tSpring 2018\n</p><p>IS 279 \tUser Experience Design\tBoyden\tSpring 2018\n</p><p>IS 289\tSurvey of Data Storage and Retrieval Systems\tJoshua Gomez\tSpring 2018</p><p><b>Fall 2018</b></p><p>\n</p><p>IS 289 \tDigital Methods for Research and Scholarship\tDrucker\tFall 2018\n</p><p>IS 289\tIntellectual Property\tMikka Conway\tFall 2018\n</p><p>IS 400 \tProfessional Development and Portfolio Design\tSnowden Becker\tFall 2018</p><p><b>Winter 2019</b></p><p>\n</p><p>DH 201 \tIntroduction to Digital Humanities\tPosner\tWinter 2019\n</p><p>EDUC 222D \tQualitative Inquiry: Special Topics Qualitative Data Analysis\tKim Gomez\tWinter 2019\n</p><p>IS 262A\tData Management and Practice\tJillian Wallis\tWinter 2019</p><p><b>Spring 2019</b></p><p>\n</p><p>IS 262B \tData Curation and Policy\tJillian Wallis\tSpring 2019\n</p><p>IS 289\tWeb Development\tJoshua Gomez\tSpring 2019\n</p><p>IS 206\tEconomics of Information\tLievrouw\tSpring 2019</p></div>\n        </div>\n    </div>\n</section>",
           "_cid": "rnavlXkdxJ",
           "_protectedParams": [],
           "_global": false,

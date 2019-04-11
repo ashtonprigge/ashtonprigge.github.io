@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-03-27_0656",
-    "currentPage": "Courses.html",
+    "currentPage": "Accesibility.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -32,7 +32,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.6",
     "siteFonts": [],
-    "uniqCompNum": 87,
+    "uniqCompNum": 88,
     "versionPublish": "4.9.6",
     "screenshot": "screenshot.png"
   },
@@ -355,7 +355,7 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p><b>Noting any differences between website and printed version of portfolio. </b></p><p><b>&nbsp;</b>The print version is a single document. I have provided a pdf version of the portfolio as it is a non proprietary format. I am hosting my website on github pages due to its longevity and cost.The functionality of the two are fundmentally different, though both convey the same information. I created my website using the application Mobirise which provides a simple interface for creation of a website as well as the ability to download and edit the website code.</p><p>font and color scheme</p><p>headings and naming</p><p>pdf is a fixed format, website will be updated</p><p><b style=\"font-size: 1rem;\">Accessibility statements should contain at least the following:</b><br></p><p><b><br></b></p><p><b>A commitment to accessibility for people with disabilities</b></p><p><b>The accessibility standard applied, such as WCAG 2.1</b></p><p><b>Contact information in case users encounter problems</b></p><p><b>It is also advisable to include the following information:</b></p><p><b><br></b></p><p><b>Any known limitations, to avoid frustration of your users</b></p><p><b>Measures taken by your organization to ensure accessibility</b></p><p><b>Technical prerequisites, such as supported web browsers</b></p><p><b>Environments in which the content has been tested to work</b></p><p><b>References to applicable national or local laws and policies</b></p><p><b><br></b></p><p>Guidence for this accesbility statement came from w3.org</p></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p><b>Noting any differences between website and printed version of portfolio. </b></p><p><b>&nbsp;</b>The print version is a single document. I have provided a pdf version of the portfolio as it is a non proprietary format. I am hosting my website on github pages due to its longevity and cost.The functionality of the two are fundmentally different, though both convey the same information. I created my website using the application Mobirise which provides a simple interface for creation of a website as well as the ability to download and edit the website code.</p><p>font and color scheme</p><p>headings and naming</p><p>pdf is a fixed format, website will be updated</p><p><br></p><p><b>Any known limitations, to avoid frustration of your users</b></p><p><b>Measures taken by your organization to ensure accessibility</b></p><p><br></p><p>Guidence for this accesbility statement came from w3.org</p></div>\n        </div>\n    </div>\n</section>",
           "_cid": "rlVAbYuh7H",
           "_anchor": "content1-10",
           "_protectedParams": [],
@@ -440,7 +440,7 @@
             }
           },
           "_name": "content2",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-multiline mbr-article>\n                <blockquote><p><b><br></b></p><p><b><br></b></p><p><b>Download my resume </b><span style=\"font-style: normal;\"><a href=\"https://zety.com/mycv/ashtonprigge\">here</a></span><b>:</b></p></blockquote>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-multiline mbr-article>\n                <blockquote><p><b style=\"font-size: 1.09rem;\">Download my resume </b><span style=\"font-size: 1.09rem; font-style: normal;\"><a href=\"https://zety.com/mycv/ashtonprigge\">here</a></span><b style=\"font-size: 1.09rem;\">:</b><br></p></blockquote>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "rmTCuv6DYR",
           "_anchor": "content2-22",
           "_protectedParams": [],
@@ -880,6 +880,40 @@
               }
             ]
           }
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".line": {
+              "background-color": "@lineColor",
+              "color": "@lineColor",
+              "align": "center",
+              "height": "2px",
+              "margin": "0 auto"
+            },
+            ".section-text": {
+              "padding": "2rem 0"
+            },
+            ".inner-container": {
+              "margin": "0 auto"
+            },
+            "@media (max-width: 768px)": {
+              ".inner-container": {
+                "width": "100% !important"
+              }
+            }
+          },
+          "_name": "content9",
+          "_customHTML": "<section class=\"mbr-section article content9\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"25\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#149dcc\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".section-text\" mbr-text>\n                    Below are several mock-ups for changes to the Getty's AAT Controlled Vocabulary.</div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n        </div>\n</section>",
+          "_cid": "rnkXqpdyzi",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "content9-2f"
         },
         {
           "alias": false,
